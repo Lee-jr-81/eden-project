@@ -1,0 +1,1 @@
+// This file handles things like sensor intervals, MQTT broker addresses, databse URLS and other configuration settings for the edge hub.
